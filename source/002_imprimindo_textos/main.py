@@ -5,7 +5,11 @@ from kivy.uix.label import Label
 
 
 def build():
-    return Label(text = "Curso Python e Kivy",italic = True,font_size=50)
+    lb = Label()
+    lb.text = "Primeiros passos com kivy"
+    lb.italic = True
+    lb.font_size = 50
+    return lb
 
 app = App()
 app.build = build

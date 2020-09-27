@@ -1,0 +1,7 @@
+certifi==2020.6.20
+docutils==0.16
+Kivy @ file:///D:/bld/kivy_1590522977131/work
+olefile==0.46
+Pillow @ file:///D:/bld/pillow_1594213067156/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1600347314331/work
+wincertstore==0.2

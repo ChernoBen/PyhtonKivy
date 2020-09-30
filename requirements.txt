@@ -1,7 +1,12 @@
 certifi==2020.6.20
+chardet==3.0.4
 docutils==0.16
+idna==2.10
 Kivy @ file:///D:/bld/kivy_1590522977131/work
+Kivy-Garden==0.1.4
 olefile==0.46
 Pillow @ file:///D:/bld/pillow_1594213067156/work
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1600347314331/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+requests==2.24.0
+urllib3==1.25.10
 wincertstore==0.2
